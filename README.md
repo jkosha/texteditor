@@ -1,0 +1,1 @@
+The code is based on this article https://blogs.oracle.com/javamagazine/for-the-fun-of-it-writing-your-own-text-editor-part-1
